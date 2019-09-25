@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Gabriela';
+}
+.btn{
+    border-radius: 25px;
+    background: white;
+    color: black;
+    margin-right:40px; 
+  
+}
+.btn-large{
+    border-radius:29px;
+    /* padding-top: 5%; */;
+}
+/* .material-icons {
+    vertical-align: 1px;
+     top:1px;
+} */
+
+nav{
+    padding:15px;
+}
+header{
+    background: url('../images/bg-hero-desktop.svg');
+    min-height: 500px;
+
+    
+}
+#footer{
+    background-color: hsl(192, 100%, 9%);
+}
+i.fa.fa-facebook {
+    border: solid white 1px;
+    border-radius: 48%;
+    padding:5%;
+}
+i.fa.fa-twitter {
+    border: solid white  1px;
+    border-radius: 48%;
+}
+i.fa.fa-linkedin{
+    border: solid white 1px;
+    border-radius: 48%;
+
+}
